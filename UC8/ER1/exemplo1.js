@@ -1,4 +1,4 @@
-// variiaveis
+// variaveis
 let num1;
 let num2;
 let resultado;
